@@ -1,4 +1,4 @@
-**Selamat Datang di "UI Tombol Versi 1.0" User Interface! 🚀**
+**Selamat Datang di "UI Tombol Versi 2.0" User Interface! 🚀**
 
 Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat lunak. Dari aplikasi web hingga proyek mobile, temukan ragam proyek yang mencerminkan dedikasi saya dalam teknologi.
 
@@ -9,7 +9,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 ### 🚀 Fitur Utama
 
-- **User Interface:** Tombol Versi 1.0
+- **User Interface:** Tombol Versi 2.0
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -35,7 +35,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   git clone https://github.com/fifovalle/UI-TOMBOL-VERSI-1.0.git
+   git clone https://github.com/fifovalle/UI-TOMBOL-VERSI-2.0.git
 
    ```
 
